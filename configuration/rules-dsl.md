@@ -7,7 +7,7 @@ title: Rules
 
 # Textual Rules
 
-"Rules" are used for automating processes: Each rule can be triggered, which invokes a script that performs any kinds of tasks, e.g. turn on lights by modifying your items, do mathematical calculations, start timers etcetera.
+"Rules" are used for automating processes: Each rule can be triggered, which invokes a script that performs any kinds of tasks, e.g. turn on lights by modifying your items, do mathematical calculations, start timers etc.
 
 openHAB has a highly integrated, lightweight but yet powerful rule engine included.
 On this page you will learn how to leverage its functionality to do *real* home automation.
